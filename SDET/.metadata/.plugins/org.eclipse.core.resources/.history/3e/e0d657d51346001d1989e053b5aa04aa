@@ -1,0 +1,31 @@
+package com.Practice;
+
+import java.util.HashSet;
+
+public class RemDub {
+
+	public static String rd(String n) {
+           
+		HashSet<String> set=new HashSet<String>();
+		
+		char[] s=n.toCharArray();
+		
+		for (char c : s) {
+			set.addAll(c);
+		}
+		
+		
+		
+		return null;
+
+	}
+
+	public static void main(String[] args) {
+
+		String name = "ganeshabasahebkashid";
+
+		rd(name);
+
+	}
+
+}

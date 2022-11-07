@@ -1,0 +1,11 @@
+package com.Practice;
+
+public class Count_Int {
+
+	public static void main(String[] args) {
+
+		int no = 123123;
+
+	}
+
+}

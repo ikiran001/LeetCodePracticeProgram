@@ -1,0 +1,22 @@
+package com.Practice;
+
+import java.util.HashMap;
+
+public class Count_Int {
+
+	public static HashMap<Character, Integer> Count(int n) {
+         
+		
+		
+		return null;
+
+	}
+
+	public static void main(String[] args) {
+
+		int no = 123123;
+		Count(no);
+
+	}
+
+}

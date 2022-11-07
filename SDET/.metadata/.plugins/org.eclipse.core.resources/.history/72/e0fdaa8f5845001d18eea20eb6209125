@@ -1,0 +1,38 @@
+package com.Practice;
+
+import java.util.Arrays;
+import java.util.HashMap;
+
+public class Count_Int {
+
+	public static HashMap<Integer, Integer> Count(int n) {
+
+		HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
+
+		String q= Integer.toString(n);
+		char[] w=q.toCharArray();
+		System.out.println(Arrays.toString(w));
+		
+		while (n != 0) {
+
+			int a = n % 10;
+			n = n / 10;
+
+			if (hm.containsKey(a)) {
+				hm.put(a, hm.get(a) + 1);
+			} else {
+				hm.put(a, 1);
+			}
+		}
+		return hm;
+	}
+
+	public static void main(String[] args) {
+
+		int no = 1231231;
+		// Count(no);
+		System.out.println(Count(no));
+
+	}
+
+}

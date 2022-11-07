@@ -1,0 +1,13 @@
+package com.Practice;
+
+public class IntSep {
+
+	public static void main(String[] args) {
+		int n = 123123;
+		
+		String temp =Integer.toString(n);
+		
+
+	}
+
+}

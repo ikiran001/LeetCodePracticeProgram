@@ -1,0 +1,10 @@
+package com.Practice;
+
+public class ArrRev {
+
+	public static void main(String[], args){
+		
+		
+	}
+	
+}

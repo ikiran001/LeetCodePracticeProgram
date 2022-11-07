@@ -1,0 +1,37 @@
+package com.Practice;
+
+import java.util.HashMap;
+
+public class Count_Int {
+
+	public static HashMap<Integer, Integer> Count(int n) {
+
+		HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
+		int count = 0;
+		while (n != 0) {
+			// int a= n%10;
+			n = n / 10;
+			System.out.println("n : " + n);
+			count++;
+
+			if (hm.containsKey(n)) {
+				hm.put(n, hm.get(n) + 1);
+			} else {
+				hm.put(n, 1);
+			}
+
+		}
+		//System.out.println(count);
+
+		return hm;
+
+	}
+
+	public static void main(String[] args) {
+
+		int no = 123123;
+		Count(no);
+
+	}
+
+}

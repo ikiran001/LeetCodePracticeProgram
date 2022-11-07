@@ -1,0 +1,15 @@
+package com.Practice;
+
+import java.util.Arrays;
+
+public class IntSep {
+
+	public static void main(String[] args) {
+		int n = 123123;
+
+		String temp = Integer.toString(n);
+		char[] c = temp.toCharArray();
+		System.out.println(Arrays.toString(c));
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.Practice;
+
+public class removeDuplicate {
+
+	public static void main(String[] args) {
+
+		char str[] = "aaabbbbbbbfffjjjjjjsrr".toCharArray();
+
+		int n = str.length;
+		System.out.println(removeDuplicate(str, n));
+	}
+
+}

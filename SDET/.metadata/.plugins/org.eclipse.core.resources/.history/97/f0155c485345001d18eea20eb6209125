@@ -1,0 +1,11 @@
+package com.Practice;
+
+public class fact {
+
+	public static void main(String[] args) {
+int no =5;
+
+factNo()
+
+	}
+}

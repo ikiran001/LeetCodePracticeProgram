@@ -1,0 +1,21 @@
+package com.Practice;
+
+public class fact {
+
+	public static int factNo(int n) {
+		int fact = 0;
+		for (int i = 0; i <= n; i++) {
+			fact = fact * 10;
+		}
+
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		int no = 5;
+
+		// factNo(no);
+		System.out.println(factNo(no));
+
+	}
+}

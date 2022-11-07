@@ -1,0 +1,18 @@
+package com.Practice;
+
+public class RevString {
+
+	public static String rev(String n) {
+
+		return null;
+	}
+
+	public static void main(String[] args) {
+
+		String name = "ganesh";
+
+		rev(name);
+
+	}
+
+}

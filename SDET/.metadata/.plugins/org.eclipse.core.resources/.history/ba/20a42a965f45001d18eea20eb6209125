@@ -1,0 +1,23 @@
+package com.Practice;
+
+public class Palindrome {
+
+	public static int palin(int no){
+		
+		String temp = Integer.toString(no);
+		char [] s =temp.toCharArray();
+		
+		
+		return 0;
+	}
+	
+	
+	public static void main(String[] args) {
+
+		int a= 121;
+		palin(a);
+		
+		
+	}
+
+}

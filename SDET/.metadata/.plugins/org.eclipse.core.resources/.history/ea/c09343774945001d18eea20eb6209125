@@ -1,0 +1,29 @@
+package com.Practice;
+
+import java.util.ArrayList;
+
+public class AddPreNo {
+
+	public static int CountAdd(int a[]) {
+
+		int sum = 0;
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		for (int i = 0; i < a.length; i++) {
+			sum = sum + a[i];
+			a[i] = sum;
+
+		}
+
+		return a;
+
+	}
+
+	public static void main(String[] args) {
+
+		int a[] = { 1, 2, 3, 4, 5 };
+		// CountAdd(a);
+		System.out.println(CountAdd(a));
+
+	}
+
+}

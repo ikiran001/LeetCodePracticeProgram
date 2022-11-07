@@ -1,0 +1,16 @@
+package com.Practice;
+
+public class removeduplicatesInt {
+
+	public static int[] rem(int arr[]) {
+
+		return 0;
+	}
+
+	public static void main(String[] args) {
+
+		int a[] = { 1, 3, 5, 9, 8, 8, 7, 2, 5, 6 };
+		rem(a);
+	}
+
+}
