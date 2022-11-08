@@ -10,16 +10,15 @@ public class LeetCodeCountEvenNumFromArray {
 
 	static int findEvenNumber(int[] nums) {
 		int count=0;
-	for(int num:nums) {
-		if(even(num)) {
-			count ++;
+		for(int num:nums) {
+			if(even(num)) {
+				count ++;
+			}
 		}
-	}
-	return count;
-		
+		return count;
 	}
 
-	 static boolean even(int num) {
+	static boolean even(int num) {
 		int noOfDigits=digits(num);
 		if(noOfDigits%2==0) {
 			return true;
@@ -27,16 +26,16 @@ public class LeetCodeCountEvenNumFromArray {
 		return false;
 	}
 
-	 static int digits(int num) {
+	static int digits(int num) {
 		int count=0;
 		while(num>0) {
 			count++;
 			num=num/10;
-			
+
 		}
 		return count;
 	}
-	 
-	 
-	
+
+
+
 }
