@@ -1,0 +1,14 @@
+package Practice;
+
+public class IntToArray {
+
+	public static void main(String[] args) {
+		int n=1234;
+
+	}
+	static int[] intToArray(int n) {
+		int length=(int) (Math.log10(n)+1);
+		int[] arr=new int[n];
+	}
+
+}

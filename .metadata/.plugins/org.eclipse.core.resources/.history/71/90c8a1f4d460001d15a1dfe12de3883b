@@ -1,0 +1,13 @@
+package Practice;
+
+public class IntLimit {
+
+	public static void main(String[] args) {
+   int a=999999999;
+   int b=1;
+   Long result=a+b;
+   System.out.println(result);
+
+	}
+
+}

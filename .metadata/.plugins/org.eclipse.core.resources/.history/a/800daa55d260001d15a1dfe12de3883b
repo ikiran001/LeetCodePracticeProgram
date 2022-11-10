@@ -1,0 +1,74 @@
+package LeetCodeArrays;
+
+import java.util.ArrayList;
+import java.util.List;
+
+//https://leetcode.com/problems/plus-one/
+
+/*
+Input: digits = [1,2,3]
+Output: [1,2,4]
+Explanation: The array represents the integer 123.
+Incrementing by one gives 123 + 1 = 124.
+Thus, the result should be [1,2,4]*/
+public class LeetCode66 {
+
+	public static void main(String[] args) {
+
+	}
+
+	public int[] plusOne(int[] digits) {
+		ArrayList<Integer> list=null;
+		int newNum =digits[0];
+
+
+		for (int i = 0; i < digits.length-1; i++) {
+			newNum=digits[i+1]+newNum*10;
+		}
+		newNum=newNum+k;  
+
+		list=new ArrayList<>();
+		int arrLength=digits.length;
+
+		if (digits[arrLength-1]==9) {
+			arrLength= arrLength+1;
+		}
+
+		for (int i = 0; i <arrLength ; i++) {
+
+			int sum=0;
+			while(newNum>0) {
+				sum=newNum%10;
+				list.add(sum);
+				newNum=newNum/10;
+				break;
+
+			}
+		}		
+		List<Integer>	list2=new ArrayList<>();
+		for (int i = arrLength-1; i>=0; i--) {
+
+
+			list2.add(list.get(i));
+
+		}
+
+		return list2;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
