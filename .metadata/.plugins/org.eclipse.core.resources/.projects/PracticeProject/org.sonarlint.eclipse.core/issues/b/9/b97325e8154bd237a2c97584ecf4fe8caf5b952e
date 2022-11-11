@@ -1,8 +1,8 @@
 
-k	java:S106"9Replace this use of System.out or System.err by a logger.(Á‘³²8´ıÆ0HÇRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Á‘³²8´ıÆ0HıRMAJORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHúRMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHüRMINORZ
 CODE_SMELL
 u
-java:S1126"BReplace this if-then-else statement by a single method invocation.(úüÃâ8îé†‘Æ0HòRMINORZ
+java:S1126"BReplace this if-then-else statement by a single method invocation.(úüÃâ8îé†‘Æ0HûRMINORZ
 CODE_SMELL

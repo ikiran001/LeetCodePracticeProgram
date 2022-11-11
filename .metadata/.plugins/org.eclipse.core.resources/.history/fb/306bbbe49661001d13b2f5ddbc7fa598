@@ -1,0 +1,23 @@
+package LeetCodeArrays;
+
+import java.util.Arrays;
+
+public class LeetCode977 {
+
+	public static void main(String[] args) {
+		int[] arr= {-7,-3,2,3,11};
+		sortedSquares(arr);
+		System.out.println(Arrays.toString(sortedSquares(arr)));
+
+	}
+	static int[] sortedSquares(int[] nums) {
+		
+		int[] result=new int[nums.length];
+		for (int i = 0; i < result.length; i++) {
+			result[i]=nums[i]*nums[i];
+		}
+
+		Arrays.sort(result);
+		return result;
+	}
+}

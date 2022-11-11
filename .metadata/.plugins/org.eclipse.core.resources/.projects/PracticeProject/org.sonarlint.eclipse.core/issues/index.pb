@@ -39,3 +39,27 @@ T
 $src/LeetCodeArrays/LeetCode1431.java,b\9\b97325e8154bd237a2c97584ecf4fe8caf5b952e
 I
 src/Practice/Array2D.java,2\3\234d368892f3af8c23bbc0c2ba9d685b06ada8c9
+R
+"src/LeetCodeArrays/LeetCode54.java,a\0\a05427df25655b00c1abd5f5672a69db2ecaa4a2
+S
+#src/LeetCodeArrays/LeetCode896.java,6\5\659ca3b217db74bae1d2d232862421d06e81606f
+S
+#src/LeetCodeArrays/LeetCode977.java,4\f\4f125dd69444ffd22f81d6457fadcd71506e0059
+S
+#src/LeetCodeArrays/LeetCode922.java,a\3\a34ca8e6ae17523badad70284188290942d6e77f
+T
+$src/LeetCodeArrays/LeetCode1394.java,8\d\8dd0929ace076b814499733bf0308411f042c7ca
+S
+#src/LeetCodeArrays/LeetCode961.java,e\2\e298583cb09432418670a87ccc2e1a2acf3c8ba0
+T
+$src/LeetCodeArrays/LeetCode1464.java,5\2\52a186fce236a7d2f0bc3b04379f57864b11336e
+L
+src/HackerRank/FizzBuss.java,3\4\344b9eba6990be63af2da93b3a56e10ce57892b2
+P
+ src/HackerRank/HackerRank01.java,e\c\ec22dc4d3bda2d11ac19c5271c34f0bc424c4a20
+P
+ src/HackerRank/HackerRank03.java,0\5\0514a2549e24b8bd8145b8db43067b3343a2b6e4
+T
+$src/LeetCodeArrays/LeetCode2089.java,3\0\30165bd84214e7e2018ad2095078d4e9d9b76e0e
+R
+"src/LeetCodeArrays/LeetCode34.java,4\e\4e0d8e8fdf14ec0cf699dcb765bcd46d6bc4778c

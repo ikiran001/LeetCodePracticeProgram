@@ -1,0 +1,16 @@
+package LeetCodeArrays;
+
+public class LeetCode961 {
+
+	public static void main(String[] args) {
+int[] arr= {9,1,9,2,9,3,9,4};
+
+
+	}
+	 static int repeatedNTimes(int[] nums) {
+		 int ans=nums.length/2;
+	        
+		 return ans+1;
+	    }
+
+}

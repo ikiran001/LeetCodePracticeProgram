@@ -1,0 +1,29 @@
+package LeetCodeArrays;
+
+import java.util.Arrays;
+
+public class LeetCode922 {
+
+	public static void main(String[] args) {
+		int[] arr= {4,2,5,7};
+		System.out.println(Arrays.toString(sortArrayByParityII(arr)));
+
+	}
+	static int[] sortArrayByParityII(int[] nums) {
+		int[] result=new int[nums.length];
+		for (int i = 0; i < nums.length-1; i++) {
+			for (int j = 0; j < result.length-1; j++) {
+				
+			
+			if(nums[i]%2==0) {
+				result[i*2]=nums[i];
+			}
+			else {
+				result[j+1]=nums[i];
+			}
+		}
+		}
+		return result;
+	}
+
+}

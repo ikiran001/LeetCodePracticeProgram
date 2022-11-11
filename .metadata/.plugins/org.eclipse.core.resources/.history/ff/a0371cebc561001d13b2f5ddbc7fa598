@@ -1,0 +1,21 @@
+package HackerRank;
+
+public class FizzBuss {
+
+	public static void main(String[] args) {
+		int n =20;
+		fizzBuzz(n);
+
+	}
+	public static void fizzBuzz(int n) {
+		String a ="Fizz";
+		String b="Buzz";
+		String c="FizzBuzz";
+		for (int i = 1; i < n; i++) {
+			if (i%30==0) {
+				
+			}
+		System.out.println(i);}
+	}
+
+}
