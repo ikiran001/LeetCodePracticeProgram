@@ -1,5 +1,13 @@
 
-k	java:S106"9Replace this use of System.out or System.err by a logger.(¬àñÇ8×êÖÅ0HæRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¸…ÈÆ8×êÖÅ0H´	RMAJORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHçRMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHµ	RMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8°»à‡Æ0Hê
+RMINORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8°»à‡Æ0Hì
+RMINORZ
 CODE_SMELL
