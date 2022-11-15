@@ -1,0 +1,12 @@
+package LeetCodeArrays;
+
+public class LeetCode_BS_374 {
+
+	public static void main(String[] args) {
+int [] arr= {1,2,3,4,,6,7,8,9,90};
+
+	}
+public int guessNumber(int n) {
+        
+    }
+}

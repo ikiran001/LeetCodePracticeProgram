@@ -1,0 +1,20 @@
+package LeetCodeArrays;
+
+import java.util.Arrays;
+
+public class LeetCode167 {
+
+	public static void main(String[] args) {
+		int [] nums= {2,3,4};
+		System.out.println(Arrays.toString(twoSum(nums, 6)));
+
+	}
+    static  int[] twoSum(int[] numbers, int target) {
+        for (int i = 0; i < numbers.length; i++) {
+			if(numbers[0]+numbers[i]==target) {
+				return new int[] {i ,i+1};
+			}
+			
+		}return numbers;
+    }
+}

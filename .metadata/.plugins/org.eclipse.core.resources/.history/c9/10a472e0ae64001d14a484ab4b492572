@@ -1,0 +1,32 @@
+package LeetCodeArrays;
+
+import java.util.Arrays;
+
+public class LeetCode167 {
+
+	public static void main(String[] args) {
+		int [] nums= {5,5,75,25};
+		System.out.println(Arrays.toString(twoSum(nums, 100)));
+
+	}
+	static  int[] twoSum(int[] numbers, int target) {
+		int num=0;
+		for (int i = 1; i < numbers.length; i++) {
+			if(numbers[num]+numbers[i]==target) {
+				return new int[] {1 ,i+1};
+			}
+			else {
+				while(numbers[num]+numbers[i]!=target) {
+					num++;
+					
+					if(numbers[num]+numbers[i]==target) {
+						return new int[] {num+1 ,i+1};
+					}
+					
+				}
+			}
+
+		}
+		return numbers;
+	}
+}
