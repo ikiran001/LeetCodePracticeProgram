@@ -1,8 +1,5 @@
 
-g
-java:S1066("/Merge this if statement with the enclosing one.(ƒÚ˜ùÿÿÿÿ8á…ÒºÆ0HëRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¾˜Èÿÿÿÿÿ8ê¡ºÆ0HéRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¾˜Èÿÿÿÿÿ8ê¡ºÆ0HíRMAJORZ
-CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHîRMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHèRMINORZ
 CODE_SMELL

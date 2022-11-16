@@ -1,0 +1,14 @@
+package BinarySearch;
+
+public class LeetCodeFloorOfNumbers {
+
+	public static void main(String[] args) {
+
+
+	}
+
+	static int floorOfNumbers(int[] nums,int target) 
+	{
+
+	}
+}
