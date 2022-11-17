@@ -1,7 +1,7 @@
 
-s	java:S125"<This block of commented-out lines of code should be removed.(¿¡«ıÿÿÿÿ8ûğƒ¥Ç0H¦RMAJORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHÆRMINORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿH§RMINORZ
+s	java:S125"<This block of commented-out lines of code should be removed.(¿¡«ıÿÿÿÿ8ûğƒ¥Ç0HÇRMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÛÇÚ8„ºï£Ç0H¨RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÛÇÚ8„ºï£Ç0HÈRMAJORZ
 CODE_SMELL

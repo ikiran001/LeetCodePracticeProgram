@@ -1,12 +1,12 @@
 
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿH¡RMINORZ
-CODE_SMELL
 p
-java:S1854"8Remove this useless assignment to local variable "copy".(Ü²’ ùÿÿÿÿ8åëØáÆ0H¢RMAJORZ
+java:S1854"8Remove this useless assignment to local variable "copy".(Ü²’ ùÿÿÿÿ8åëØáÆ0HÁRMAJORZ
 CODE_SMELL
 a
-java:S1481")Remove this unused "copy" local variable.(Ü²’ ùÿÿÿÿ8åëØáÆ0H£RMINORZ
+java:S1481")Remove this unused "copy" local variable.(Ü²’ ùÿÿÿÿ8åëØáÆ0HÂRMINORZ
 CODE_SMELL
 k	java:S106
-"9Replace this use of System.out or System.err by a logger.(†˜¤¨8ëÌÐàÆ0H¥RMAJORZ
+"9Replace this use of System.out or System.err by a logger.(†˜¤¨8ëÌÐàÆ0HÄRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHÅRMINORZ
 CODE_SMELL
