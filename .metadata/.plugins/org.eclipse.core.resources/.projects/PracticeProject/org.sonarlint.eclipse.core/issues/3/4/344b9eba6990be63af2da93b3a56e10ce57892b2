@@ -1,9 +1,9 @@
 
-[
-java:S1481	"(Remove this unused "arr" local variable.(´™Ñõ8¹ÝÏ·Æ0H†RMINORZ
-CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µî¾ûÿÿÿÿHˆRMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µî¾ûÿÿÿÿHêRMINORZ
 CODE_SMELL
 j
-java:S1854	"7Remove this useless assignment to local variable "arr".(´™Ñõ8¹ÝÏ·Æ0H‰RMAJORZ
+java:S1854	"7Remove this useless assignment to local variable "arr".(´™Ñõ8¹ÝÏ·Æ0HëRMAJORZ
+CODE_SMELL
+[
+java:S1481	"(Remove this unused "arr" local variable.(´™Ñõ8¹ÝÏ·Æ0HìRMINORZ
 CODE_SMELL

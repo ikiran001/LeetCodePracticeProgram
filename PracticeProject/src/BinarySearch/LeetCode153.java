@@ -6,10 +6,10 @@ public class LeetCode153 {
 
 	public static void main(String[] args) {
 		int[] arr= {11,12,14,16};
-		System.out.println(returnNUmber(arr));
+		System.out.println(findMin(arr));
 
 	}
-	
+
 	static int findMin(int[] arr) {  
 		int pivot=returnNUmber(arr);
 		if(pivot==-1) {
@@ -17,8 +17,8 @@ public class LeetCode153 {
 		}
 		else {	return pivot;}
 	}
-	
-	
+
+
 	static int returnNUmber(int[] nums) {
 		int start=0;
 		int end=nums.length-1;

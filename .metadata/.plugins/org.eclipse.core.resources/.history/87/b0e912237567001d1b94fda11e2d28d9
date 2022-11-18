@@ -1,0 +1,39 @@
+package LeetCodeArrays;
+
+import java.util.Arrays;
+
+public class LeetCode1122 {
+
+	public static void main(String[] args) {
+		int[] arr1 = {2,3,1,3,2,4,6,7,9,2,19};
+		int[] arr2 = {2,1,4,3,9,6};
+		System.out.println(Arrays.toString(relativeSortArray(arr1, arr2)));
+
+	}
+	 static int[] relativeSortArray(int[] arr1, int[] arr2) {
+		 Arrays.sort(arr1);
+		 int index=0;
+	        int[] arr3=new int[arr1.length];
+	        for (int i = 0; i < arr2.length; i++) {
+				for (int j = 0; j < arr1.length; j++) {
+					if(arr2[i]==arr1[j]) {
+						arr3[index]=arr1[j];
+						index++;
+					}
+				}
+			}
+	   int i,j=arr1.length-1;
+	  
+	
+	   while(arr3[i]==0) {
+		   arr3[i]=arr1[j];
+		   i++;
+		   j++;
+		   
+	   }
+	   
+			return arr3;
+	        
+	    }
+
+}

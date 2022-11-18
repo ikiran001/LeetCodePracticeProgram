@@ -1,0 +1,16 @@
+package LeetCodeArrays;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LeetCode1122 {
+
+	public static void main(String[] args) {
+
+
+	}
+	 public int[] relativeSortArray(int[] arr1, int[] arr2) {
+	        List<Integer> arr3=new ArrayList<>();
+	    }
+
+}

@@ -1,7 +1,7 @@
 
-ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ï°÷8ý‚•¸Æ0HŸRMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µî¾ûÿÿÿÿHîRMINORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(»Ö¾“ùÿÿÿÿ8åýŸ¸Æ0H¢RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»Ö¾“ùÿÿÿÿ8åýŸ¸Æ0HïRMAJORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µî¾ûÿÿÿÿHžRMINORZ
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ï°÷8ý‚•¸Æ0HðRMINORZ
 CODE_SMELL
