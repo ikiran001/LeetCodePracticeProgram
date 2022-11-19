@@ -1,0 +1,13 @@
+package LeetCodeArrays;
+
+public class LeetCode456 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	 public boolean find132pattern(int[] nums) {
+	        
+	    }
+}
