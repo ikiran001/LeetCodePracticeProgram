@@ -1,0 +1,15 @@
+package LeetCodeSort;
+
+import java.util.Arrays;
+
+public class LeetCode217 {
+
+	public static void main(String[] args) {
+
+
+	}
+	 public boolean containsDuplicate(int[] nums) {
+	        Arrays.sort(nums);
+	    }
+
+}
