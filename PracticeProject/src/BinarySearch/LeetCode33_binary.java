@@ -3,10 +3,10 @@ package BinarySearch;
 public class LeetCode33_binary {
 
 	public static void main(String[] args) {
-		int []arr= {4,5,6,7,1,2,3};
+		int []arr= {3,4,5,6,7,0,1,2};
 
-		
-		System.out.println(search(arr,3));
+
+		System.out.println(search(arr,7));
 
 	}
 
@@ -30,8 +30,6 @@ public class LeetCode33_binary {
 		}
 		else {
 			return binarySearch(nums, target, pivot+1, nums.length-1);}
-
-
 	}
 
 	//simple binary search
