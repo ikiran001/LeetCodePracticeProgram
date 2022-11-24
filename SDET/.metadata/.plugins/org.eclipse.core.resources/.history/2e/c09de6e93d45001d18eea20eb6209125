@@ -1,9 +1,0 @@
-package com.Practice;
-
-public class Count_letter {
-
-	public static void main(String[] args) {
-
-	}
-
-}

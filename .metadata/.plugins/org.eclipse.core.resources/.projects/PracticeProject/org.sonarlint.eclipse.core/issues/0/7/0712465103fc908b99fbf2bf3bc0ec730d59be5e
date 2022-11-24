@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ø €Óüÿÿÿÿ8¨³é¯Ê0Hƒ,RMAJORZ
+CODE_SMELL
+t
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÆÕ˜®8þåå¯Ê0H„,RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¸®ÿH…,RMINORZ
+CODE_SMELL

@@ -1,7 +1,0 @@
-package demo.java;
-
-public class myRandNo {
-	public static void main(String[] args) {
-
-	}
-}

@@ -133,3 +133,11 @@ Q
 !src/LeetCodeSort/LeetCode217.java,d\a\da21442550d3bf569c8bc11ffc2942b60485a22f
 Q
 !src/LeetCodeSort/LeetCode268.java,7\9\79f7a9679a6ed04850ac1c01fee693056e11cc4c
+Q
+!src/LeetCodeSort/LeetCode905.java,a\4\a460e45fd73192db7d8debf65e3c17e2eac1ac02
+R
+"src/LeetCodeSort/LeetCode1491.java,c\2\c2791602401037d83af4bf7a4bc1a419b27f6ff3
+R
+"src/LeetCodeSort/LeetCode1502.java,0\7\0712465103fc908b99fbf2bf3bc0ec730d59be5e
+Q
+!src/LeetCodeSort/LeetCode645.java,b\0\b02d7c69fb73ea2b3021aec4d0bcde6581e47ad8
