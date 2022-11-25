@@ -1,0 +1,20 @@
+package SortingAlgos;
+
+public class InsertionSort {
+
+	public static void main(String[] args) {
+
+
+	}
+	
+	public void insertionSort(int[] arr) {
+		
+	}
+	 
+	public void swap(int[]arr, int first, int second) {
+		int temp=arr[first];
+		arr[first]=arr[second];
+		arr[second]=temp;
+	}
+
+}

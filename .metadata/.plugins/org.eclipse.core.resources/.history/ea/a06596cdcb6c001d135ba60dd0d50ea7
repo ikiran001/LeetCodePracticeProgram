@@ -1,0 +1,16 @@
+package Practice;
+//1281. Subtract the Product and Sum of Digits of an Integer
+//https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+public class LeetCode1281 {
+
+	public static void main(String[] args) {
+
+	}
+	
+	 public int subtractProductAndSum(int n) {
+	        int a=n+0;
+	        
+	        
+	    }
+
+}

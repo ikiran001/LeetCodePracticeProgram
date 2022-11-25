@@ -1,0 +1,19 @@
+package LeetCodeSort;
+//448. Find All Numbers Disappeared in an Array
+//https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+public class LeetCode448 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+	 public List<Integer> findDisappearedNumbers(int[] nums) {
+	        int value=1;
+	        int[] arr= new int[nums.length];
+	        for (int i = 0; i < arr.length; i++) {
+				arr[i]=value;
+				value++;
+			}
+	    }
+}

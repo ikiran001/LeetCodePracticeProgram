@@ -1,0 +1,16 @@
+package LeetCodeSort;
+//https://leetcode.com/problems/third-maximum-number/
+//414. Third Maximum Number
+//Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
+public class LeetCode414 {
+
+	public static void main(String[] args) {
+
+
+	}
+	
+	 public int thirdMax(int[] nums) {
+	        
+	    }
+
+}

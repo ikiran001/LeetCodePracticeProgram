@@ -141,3 +141,9 @@ R
 "src/LeetCodeSort/LeetCode1502.java,0\7\0712465103fc908b99fbf2bf3bc0ec730d59be5e
 Q
 !src/LeetCodeSort/LeetCode645.java,b\0\b02d7c69fb73ea2b3021aec4d0bcde6581e47ad8
+S
+#src/SortingAlgos/SelectionSort.java,1\6\16c2294df23baa38fbe96c88f7979b5c259997aa
+Q
+!src/LeetCodeSort/LeetCode350.java,d\e\def72bcae8c349abc7ee46604d70a6734b9a2a4c
+S
+#src/LeetCodeArrays/LeetCode378.java,f\4\f4cce1abea7ac5cd885d0a9b06c0b42a80b5d96b
