@@ -1,4 +1,5 @@
 package LeetCodeArrays;
+//issue
 //sorting and raking arrays
 import java.util.Arrays;
 
@@ -11,28 +12,27 @@ public class LeetCode1331 {
 
 	}
 	static int[] arrayRankTransform(int[] arr) {
-		int [] copy=Arrays.copyOf(arr, arr.length);
-
-		int rank=1;
-		Arrays.sort(arr);
-
-		int[] arr1=new int[arr.length];
-		for (int i = 0; i < arr.length-1; i++) {
-			if(arr[i]==arr[i+1] ) {
-				arr1[i]=rank;
-				arr1[i+1]=arr1[i];
-
-			}
-			if(arr[i]<arr[i+1]) 
-			{
-				arr1[i]=rank;
-				arr1[i+1]=rank+1;
-				rank++;
-
-			}
-
-		}
-
-		return arr1;
+		//int [] nums=new int[arr.length];
+		int n=arr.length;
+		for (int i = 0; i < arr.length; i++) {
+			int maxEl=max(arr, i, n-1);
+		arr[maxEl]=n-1;
+		n--;
+		}	
+		return arr;
 	}
+
+
+	static int max(int[] arr , int start, int end) {
+		int max=start;
+		for (int i = 0; i < arr.length; i++) {
+			if(arr[max]<arr[i]) {
+				max=i;
+			}
+		}
+		return max;
+
+	}
+
+
 }

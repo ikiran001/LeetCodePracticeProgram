@@ -1,0 +1,21 @@
+package LeetCodeSort;
+//find the missng [0-n]
+public class LeetCodeAmazon268 {
+
+	public static void main(String[] args) {
+
+
+	}
+	
+	static void sort(int[] nums) {
+		int i=0;
+		while(i<nums.length) {
+			int correct=nums[i];
+			if(nums[i]!=nums[correct] && nums[i]<nums.length) {
+				swap(nums, i,correct);}
+			else {i++;}
+		}
+		
+	}
+
+}

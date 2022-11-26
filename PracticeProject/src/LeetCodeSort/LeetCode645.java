@@ -1,24 +1,44 @@
 package LeetCodeSort;
-//issue
+
 import java.util.Arrays;
 
 public class LeetCode645 {
 
 	public static void main(String[] args) {
-int[] arr= {2,2};
-System.out.println(Arrays.toString(findErrorNums(arr)));
+		int[] arr= {1,3,4,3};
+		System.out.println(Arrays.toString(findErrorNums(arr)));
 	}
 	public static int[] findErrorNums(int[] nums) {
-		Arrays.sort(nums);
-		if(nums[0]==2) {
-			return new int[]{nums[0],nums[0]-1};
-		}
-		for(int i=1;i<nums.length;i++){
-			if(nums[i]==nums[i-1]){
-				nums[i]=nums[i-1]+1;
-				return new int[]{nums[i-1],nums[i]};
+		int[] arr=new int[2];
+		cyclicSort(nums);
+		System.out.println(Arrays.toString(nums));
+
+		for (int index = 0; index < nums.length; index++) {
+			if(nums[index]!=index+1) {
+				arr[0]=nums[index];
+				arr[1]=index+1;
 			}
 		}
-		return nums;
+		return arr;
+	}
+
+	static void cyclicSort(int [] nums) {
+		int i=0;
+		while(i<nums.length) {
+			int correct =nums[i]-1;
+			if(nums[i]!=nums[correct]) {
+				swap(nums, i, correct);
+			}
+			else {
+				i++;
+			}
+		}
+	}
+
+	static void swap(int[] nums, int first, int second) {
+		int temp=nums[first];
+		nums[first]=nums[second];
+		nums[second]=temp;
+
 	}
 }

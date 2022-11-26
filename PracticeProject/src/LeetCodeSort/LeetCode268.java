@@ -3,7 +3,7 @@ package LeetCodeSort;
 public class LeetCode268 {
 
 	public static void main(String[] args) {
-		int[] nums= {1};
+		int[] nums= {1,0,3};
 
 		System.out.println(missingNumber(nums));
 	}
