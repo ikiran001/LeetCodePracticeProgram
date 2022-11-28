@@ -1,0 +1,16 @@
+package Stringssss;
+
+public class LeetCode1678 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+	   stativ String interpret(String command) {
+	          command.replace("()", "o");
+		        command.replace("(", "");
+		       return command.replace(")", "");
+	      
+	    }
+}

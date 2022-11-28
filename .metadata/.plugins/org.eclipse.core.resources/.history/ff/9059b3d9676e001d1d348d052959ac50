@@ -1,0 +1,10 @@
+package LeetCodeArrays;
+
+public class LeetCode81 {
+
+	public static void main(String[] args) {
+int[] arr= {1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1};
+
+	}
+
+}

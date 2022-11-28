@@ -1,11 +1,11 @@
 
-
-java:S37762"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œÚÈËşÿÿÿÿ8³øËÅÉ0HÏ(RCRITICALZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿHÒ6RMINORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿHŞ(RMINORZ
+
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œÚÈËşÿÿÿÿ8³øËÅÉ0HÓ6RCRITICALZ
 CODE_SMELL
 y
-java:S1126"AReplace this if-then-else statement by a single return statement.(ºîÚ§úÿÿÿÿ8´¤¬ÆÉ0Hß(RMINORZ
+java:S1126"AReplace this if-then-else statement by a single return statement.(ºîÚ§úÿÿÿÿ8´¤¬ÆÉ0Hâ6RMINORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÄ¹S8şÅÉ0Hà(RMAJORZ
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÄ¹S8şÅÉ0Hã6RMAJORZ
 CODE_SMELL

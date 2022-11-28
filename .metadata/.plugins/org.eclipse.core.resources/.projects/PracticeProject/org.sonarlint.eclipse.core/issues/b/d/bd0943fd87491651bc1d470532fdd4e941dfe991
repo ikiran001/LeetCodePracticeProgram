@@ -1,12 +1,10 @@
 
-a
-java:S1481")Remove this unused "copy" local variable.(Ü²’ ùÿÿÿÿ8åëØáÆ0H¾+RMINORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(é¤’Ã8²¿­Ë0H§6RMAJORZ
 CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHÀ+RMINORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(†˜¤¨8ëÌĞàÆ0H¨6RMAJORZ
 CODE_SMELL
-k	java:S106
-"9Replace this use of System.out or System.err by a logger.(†˜¤¨8ëÌĞàÆ0HÁ+RMAJORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿH©6RMINORZ
 CODE_SMELL
-p
-java:S1854"8Remove this useless assignment to local variable "copy".(Ü²’ ùÿÿÿÿ8åëØáÆ0HÂ+RMAJORZ
+b
+java:S1172"*Remove this unused method parameter "end".(Òşª›ùÿÿÿÿ8ÁïÄ¬Ë0Hª6RMAJORZ
 CODE_SMELL

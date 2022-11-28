@@ -1,0 +1,25 @@
+package Stringssss;
+
+public class Palindrome {
+
+	public static void main(String[] args) {
+		String name="abcdcbad";
+		System.out.println(isPalindrome(name));
+	}
+
+	static boolean isPalindrome(String name) {
+		int start=name.charAt(0);
+		int end=name.charAt(length()-1);
+		while(start<=end) {
+			if(start==end) {
+				start++;
+				end--;
+
+			}
+			else {return false;}
+
+		}
+		return true;
+
+	}
+}

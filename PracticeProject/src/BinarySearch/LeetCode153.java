@@ -1,11 +1,11 @@
-package BinarySearch;import java.lang.module.FindException;
+package BinarySearch;
 
 //https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 //153. Find Minimum in Rotated Sorted Array
 public class LeetCode153 {
 
 	public static void main(String[] args) {
-		int[] arr= {11,12,14,16};
+		int[] arr= {4,5,6,7,0,1,2,3};
 		System.out.println(findMin(arr));
 
 	}

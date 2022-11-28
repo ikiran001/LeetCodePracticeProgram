@@ -77,8 +77,6 @@ W
 'src/LeetCodeArrays/LeetCode_BS_704.java,6\9\6974729ec19a59bbad8033e169355030d2201b43
 W
 'src/LeetCodeArrays/LeetCode_BS_744.java,a\9\a96b8424b42a00721e1fac32dd8088bb2310486a
-E
-src/Practice/xyz.java,9\d\9da3e80354e1e7544560ce132c1af74457980f53
 T
 $src/LeetCodeArrays/LeetCode1351.java,4\6\46b76a88b8e0079788ae843fed351b21d27ab0b8
 _
@@ -121,8 +119,6 @@ P
  src/BinarySearch/LeetCode81.java,0\9\0900ba97fdb96a88f9409800219c5f108dac71ac
 Q
 !src/BinarySearch/LeetCode240.java,2\a\2a2d7ce030fd3ee4d7e76eef8bbfe30df01bc093
-Q
-!src/BinarySearch/LeetCode287.java,6\1\61f5240b3baebee8cf86c4bfdf490df22004c0d6
 X
 (src/BinarySearch/StreectlySortedMat.java,e\0\e04e34321ba1b4620bf3ed8c24779493c516a8f9
 P
@@ -173,3 +169,25 @@ W
 'src/LeetCodeSort/LeetCode287Amazon.java,8\9\89224e7273a07fc4fb0f069546c64fd5690f9ed0
 Q
 !src/LeetCodeSort/LeetCode442.java,d\d\dd68e553a0a4df70914f6e14136410e1e422746c
+P
+ src/LeetCodeSort/LeetCode41.java,c\1\c13e44a5449e756bcea7b2af68d5a6ac8a1c9a97
+Q
+!src/LeetCodeSort/LeetCode215.java,a\f\af72000fc786118d9f27b6e69fa52bb5d14f90be
+M
+src/Practice/LeetCode258.java,0\e\0e82473f432e5a6e2fe07c96294b2dec754ea8d8
+M
+src/Practice/LeetCode202.java,a\f\af5498816b5fbc1d02edc867ddf3ae9876df7978
+N
+src/Stringssss/Palindrome.java,6\2\62176942c12fd2caf28266a8e2446a302912ee3e
+Y
+)src/Stringssss/LeetCode1108Defanging.java,4\4\445d44ac7a3dc832d4947f587fd992821f1813c8
+P
+ src/Stringssss/LeetCode1528.java,d\1\d1d48b75ac2113ecb4e8e3f77f98295e1d351bcf
+P
+ src/Stringssss/LeetCode1704.java,6\9\69b0166e95e891ccab8942d65682a04f2bee24a7
+I
+src/Practice/Strings.java,6\3\631e3b2b19e013dad696d51fe296811604ff3492
+P
+ src/Stringssss/LeetCode1859.java,4\1\41d3d42b4ebb1929cc44186be82cfa09e6caeb7d
+P
+ src/Stringssss/LeetCode1678.java,1\e\1e1d779e9b02be334b3de0b86d9a9e4930fdeb07

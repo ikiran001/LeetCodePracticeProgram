@@ -1,0 +1,12 @@
+package Stringssss;
+
+public class LeetCode1704 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	 public boolean halvesAreAlike(String s) {
+	        
+	    }
+}

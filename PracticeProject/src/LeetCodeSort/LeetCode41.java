@@ -1,15 +1,18 @@
 package LeetCodeSort;
 
+import java.util.Arrays;
+
 public class LeetCode41 {
 
 	public static void main(String[] args) {
-		int[] arr= {1};
+		int[] arr= {3,4,-1,1};
 		System.out.println(firstMissingPositive(arr));
 
 	}
 
 	static int firstMissingPositive(int[] nums) {
 		sort(nums);
+		System.out.println(Arrays.toString(nums));
 		for (int i = 0; i < nums.length; i++) {
 			if(nums[i]!=i+1) {
 				return i+1;

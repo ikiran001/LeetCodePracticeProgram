@@ -10,24 +10,31 @@ public class LeetCode189 {
 
 	public static void main(String[] args) {
 		int[] arr= {1,2,3,4,5,6,7};
-rotate(arr, 5);
-System.out.println(Arrays.toString(arr));
+		rotate(arr, 101);
+		System.out.println(Arrays.toString(arr));
 	}
 
 
 	static void rotate(int[] nums, int k) {
-		for (int i = 0; i < k; i++) {
+		k=k%nums.length;
+		if(k < 0){ 
+			k += nums.length;
+		}
+		reverseArray(nums, 0, nums.length-1);
+		reverseArray(nums, 0, k-1);
+		reverseArray(nums, k, nums.length-1);
 
-		int lastElement=nums[nums.length-1];
-		
-		for (int j = nums.length-1; j >0; j--) {
-			nums[j]=nums[j-1];
-		}
-		nums[0]=lastElement;
-		}
-		
 	}
 
+	static void reverseArray(int[] nums, int li , int ri) {
+		while(li<ri) {
+			int temp=nums[li];
+			nums[li]=nums[ri];
+			nums[ri]=temp;
+			li++;
+			ri--;
+		}
+	}
 
 
 }

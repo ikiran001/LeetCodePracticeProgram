@@ -1,0 +1,12 @@
+package Stringssss;
+
+public class LeetCode1108Defanging {
+
+	public static void main(String[] args) {
+
+
+	}
+	 static String defangIPaddr(String address) {
+	        return address.replace(".", "[.]");
+	    }
+}

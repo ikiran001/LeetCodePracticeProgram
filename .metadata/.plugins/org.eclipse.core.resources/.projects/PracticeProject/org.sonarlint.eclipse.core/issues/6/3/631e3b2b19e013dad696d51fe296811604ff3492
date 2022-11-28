@@ -1,0 +1,45 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ÉÜì—şÿÿÿÿ8ó¼æË0Hë9RMAJORZ
+CODE_SMELL
+j	java:S1065"9Replace this use of System.out or System.err by a logger.(­ô8ğÈçË0Hø>RMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(¦Ã•8ğ¹ÿèË0HÌ?RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(Û™ßÒ8Ò²šçË0Hş;RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(ĞòŸ‡ûÿÿÿÿ8Ò‹çË0Hš<RMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶Ş«çË0HÈ=RMINORZ
+CODE_SMELL
+
+java:S18580"G"name" is already a string, there's no need to call "toString()" on it.(ĞòŸ‡ûÿÿÿÿ8‰ä¦çË0H =RMINORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(ì¸­Ü8òô¢çË0HË<RMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ïûêìşÿÿÿÿ8²œçË0H<RMAJORZ
+CODE_SMELL
+n	java:S125!"<This block of commented-out lines of code should be removed.(Ú©Úğ8‡ ˜çË0HØ;RMAJORZ
+CODE_SMELL
+W
+java:S2201+"+The return value of "replace" must be used.(ñ£Õæ8ËˆÿèË0HÓ?RMAJORZBUG
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(™¾ø×üÿÿÿÿ8ƒ˜¡çË0H²<RMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(”ÑÇÉÿÿÿÿÿ8è™çË0Hò;RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‰¹œ±øÿÿÿÿ8ÈÃ»åË0H€9RMAJORZ
+CODE_SMELL
+g	java:S125
+"<This block of commented-out lines of code should be removed.(½Ğ¦§Hº8RMAJORZ
+CODE_SMELL
+‘
+java:S11497"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ó×ñ98ò‚ÆçË0HÜ>RMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(•Ãıøÿÿÿÿ8†¤çË0Hå<RMAJORZ
+CODE_SMELL
+j	java:S1064"9Replace this use of System.out or System.err by a logger.(¬œ«+8‚º¼æË0HŒ;RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáH¸8RMINORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(±ÕòÕûÿÿÿÿ8µã¬ìË0HêBRMAJORZ
+CODE_SMELL

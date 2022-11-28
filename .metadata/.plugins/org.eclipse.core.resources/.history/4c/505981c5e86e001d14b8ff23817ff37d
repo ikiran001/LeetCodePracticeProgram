@@ -1,0 +1,13 @@
+package Stringssss;
+
+public class Palindrome {
+
+	public static void main(String[] args) {
+String name="abcdcba";
+
+	}
+
+static boolean isPalindrome(String name) {
+	
+}
+}
