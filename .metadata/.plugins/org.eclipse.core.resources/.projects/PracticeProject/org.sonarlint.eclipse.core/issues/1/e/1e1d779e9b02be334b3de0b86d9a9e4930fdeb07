@@ -1,8 +1,8 @@
 
+k	java:S106"9Replace this use of System.out or System.err by a logger.(èÒ¯Á8ÿ¤òîË0H›DRMAJORZ
+CODE_SMELL
 ‘
-java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(íËÜÉıÿÿÿÿ8‚‹ñîË0HDRMINORZ
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(íËÜÉıÿÿÿÿ8‚‹ñîË0HœDRMINORZ
 CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûH€DRMINORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(èÒ¯Á8ÿ¤òîË0HšDRMAJORZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûHŸDRMINORZ
 CODE_SMELL

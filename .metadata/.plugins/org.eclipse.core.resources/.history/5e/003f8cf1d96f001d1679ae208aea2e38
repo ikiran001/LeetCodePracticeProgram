@@ -1,0 +1,21 @@
+package Stringssss;
+
+public class LeetCode680 {
+
+	public static void main(String[] args) {
+		String s = "abcdaccba";
+		System.out.println(validPalindrome(s));
+	}
+	static boolean validPalindrome(String s) {}
+	
+	
+	static boolean isPalindrome(String s, int i, int j){
+	while(i<j) {
+		if(s.charAt(i)==s.charAt(j)) {
+			i++;
+			j--;
+		}
+	}
+	}
+	}
+

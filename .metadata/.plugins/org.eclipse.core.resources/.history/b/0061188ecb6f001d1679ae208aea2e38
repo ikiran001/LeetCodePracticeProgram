@@ -1,0 +1,17 @@
+package Stringssss;
+
+public class LeetCode58 {
+
+	public static void main(String[] args) {
+String s = "Hello World";
+	}
+
+	
+	  public int lengthOfLastWord(String s) {
+		  int count=0;
+	        String[] a=s.split(" ");
+	       String b=a[a.length-1];
+	        char[] c=b.toCharArray();
+	       return c.length;
+	    }
+}

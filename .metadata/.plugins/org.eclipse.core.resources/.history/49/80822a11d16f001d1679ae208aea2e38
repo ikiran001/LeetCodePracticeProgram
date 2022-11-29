@@ -1,0 +1,27 @@
+package Stringssss;
+
+public class LeetCode680 {
+
+	public static void main(String[] args) {
+String s = "bab";
+System.out.println(validPalindrome(s));
+	}
+	 static boolean validPalindrome(String s) {
+		 if(s.length()==3) {}
+		 
+		 int count=0;
+	        for (int i = 0; i < s.length()/2; i++) {
+				int start=s.charAt(i);
+				int end=s.charAt(s.length()-1-i);
+				if(start!=end) {
+					count++;
+					start--;
+					end--;
+					if(count==2) {
+						return false;
+					}
+				}
+			}
+	        return true;
+	    }
+}
