@@ -1,7 +1,7 @@
 
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý•ÏûHˆ?RMINORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(‹à³Ÿ8é¨ºèË0HàDRMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(µ‡Œª8žé€èË0H¦?RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µ‡Œª8žé€èË0HáDRMAJORZ
 CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(‹à³Ÿ8é¨ºèË0H±?RMAJORZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý•ÏûHâDRMINORZ
 CODE_SMELL

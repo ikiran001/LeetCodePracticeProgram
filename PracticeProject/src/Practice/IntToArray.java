@@ -10,6 +10,8 @@ public class IntToArray {
 
 	}
 	static int[] intToArray(int n) {
+	
+		
 		int length=(int) (Math.log10(n)+1); 
 		int[] arr=new int[length];
 		int arrLength=arr.length;

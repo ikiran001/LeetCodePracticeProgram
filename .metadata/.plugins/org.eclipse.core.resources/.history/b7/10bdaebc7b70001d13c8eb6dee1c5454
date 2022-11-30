@@ -1,0 +1,24 @@
+package Stringssss;
+
+public class LeetCode168 {
+
+	public static void main(String[] args) {
+	System.out.println('A'+1);
+
+	}
+	
+	 static String convertToTitle(int columnNumber) {
+	        String series="";
+	        int i=0;
+	        while(columnNumber>=i){
+	        	char ch=(char)('A'+i);
+	        	series+=ch;
+	        	i++;
+	        	if(columnNumber==i) {
+	        		return  String.valueOf(series.charAt(i));
+	        	}
+	        }
+	        return "";
+	    }
+
+}

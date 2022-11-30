@@ -1,0 +1,20 @@
+package Stringssss;
+//issue
+public class LeetCode50 {
+
+	public static void main(String[] args) {
+
+		int a=265;
+		System.out.println(convertToTitle(a));
+	}
+
+	static String convertToTitle(int columnNumber) {
+		
+		
+	}
+
+
+
+}
+
+

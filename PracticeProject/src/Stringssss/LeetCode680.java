@@ -17,7 +17,6 @@ public class LeetCode680 {
 			else return isPalindrome(s, i+1, j) || isPalindrome(s, i, j-1);
 		}
 		return true;
-
 	}
 
 

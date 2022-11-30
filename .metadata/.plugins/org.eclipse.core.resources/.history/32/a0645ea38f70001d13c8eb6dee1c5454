@@ -1,0 +1,29 @@
+package Stringssss;
+//issue
+public class LeetCode50 {
+
+	public static void main(String[] args) {
+
+		double x=2.000000; int n=-2;
+		System.out.println(myPow(x, n));
+	
+	}
+
+	  static double myPow(double x, int n) {
+		  double a=x;
+		  
+		  if (n<0) {
+			  for (int i = 1; i < n*-1; i++) {
+					x/=a;
+				} 
+			  return x;
+		  }
+		  else   for (int i = 1; i < n; i++) {
+				x*=a;
+			}
+	        return x;
+	    }
+
+}
+
+

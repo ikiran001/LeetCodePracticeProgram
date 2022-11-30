@@ -1,0 +1,13 @@
+package Practice;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListArraylist {
+
+	public static void main(String[] args) {
+
+		List<Integer> a= new ArrayList<>();
+	}
+
+}

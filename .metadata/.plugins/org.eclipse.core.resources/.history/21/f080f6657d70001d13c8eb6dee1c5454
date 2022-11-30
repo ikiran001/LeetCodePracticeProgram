@@ -1,0 +1,30 @@
+package Stringssss;
+
+public class LeetCode168 {
+
+	public static void main(String[] args) {
+
+		int a=26;
+		System.out.println(convertToTitle(a));
+	}
+
+	static String convertToTitle(int columnNumber) {
+		String series="";
+		aToZ();
+	
+		return "";
+	}
+
+
+	static void aToZ() {
+		String series="";
+		int i=0;
+		while(26>=i){
+			char ch=(char)('A'+i);
+			series+=ch;
+			i++;
+		}
+	}
+}
+
+

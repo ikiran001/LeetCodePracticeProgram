@@ -1,0 +1,14 @@
+package Practice;
+//9. Palindrome Number
+//https://leetcode.com/problems/palindrome-number/
+public class LeetCode9 {
+
+	public static void main(String[] args) {
+		
+
+	}
+	 public boolean isPalindrome(int x) {
+	        int length=(int)Math.log10(x)+1;
+	    }
+
+}

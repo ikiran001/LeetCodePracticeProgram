@@ -191,3 +191,7 @@ P
  src/Stringssss/LeetCode1859.java,4\1\41d3d42b4ebb1929cc44186be82cfa09e6caeb7d
 P
  src/Stringssss/LeetCode1678.java,1\e\1e1d779e9b02be334b3de0b86d9a9e4930fdeb07
+N
+src/Stringssss/LeetCode58.java,e\9\e9727a6944e109a245b6b3bb10b35786474c130d
+O
+src/Stringssss/LeetCode680.java,8\0\804343e4923114fdedad6171d686ca6131d57fb8
