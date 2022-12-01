@@ -1,0 +1,18 @@
+package Stringssss;
+
+public class LeetCode67 {
+
+	public static void main(String[] args) {
+
+
+	}
+	public String addBinary(String a, String b) {
+
+		int x=Integer.parseInt(a, 2);
+		int y=Integer.parseInt(b, 2);
+		int sum=x+y;
+		return Integer.toBinaryString(sum)	;	
+
+	}
+
+}

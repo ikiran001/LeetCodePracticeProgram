@@ -1,9 +1,9 @@
 
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHòFRMINORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(¦¼¬á8æ¯„ƒÆ0HõFRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‡¿è±ÿÿÿÿÿ8 Š÷¶Ì0HüFRMAJORZ
+CODE_SMELL
 a
-java:S1751"5Remove this "break" statement or make it conditional.(›ûä·8ÏÌ›ƒÆ0H±	RMAJORZBUG
-k	java:S106	"9Replace this use of System.out or System.err by a logger.(¦¼¬á8æ¯„ƒÆ0H¨	RMAJORZ
-CODE_SMELL
-s	java:S125"<This block of commented-out lines of code should be removed.(‡¿è±ÿÿÿÿÿ8¦­ƒÆ0H²	RMAJORZ
-CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHéRMINORZ
-CODE_SMELL
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·8ê¨ø¶Ì0HGRMAJORZBUG

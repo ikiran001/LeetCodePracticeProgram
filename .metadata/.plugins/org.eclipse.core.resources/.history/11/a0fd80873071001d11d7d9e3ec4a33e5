@@ -1,0 +1,28 @@
+package Stringssss;
+
+public class LeetCode67 {
+
+	public static void main(String[] args) {
+		String a = "11";
+		String b = "1";
+
+		System.out.println(addBinary(a, b));
+	}
+	static String addBinary(String a, String b) {
+int length=a.length();
+if(length<=30) {
+		Long x=(long) Integer.parseInt(a, 2);
+
+		Long y=(long) Integer.parseInt(b, 2);
+
+		Long sum=x+y;
+
+		Long.toBinaryString(sum);
+
+		return Long.toBinaryString(sum);}
+else return new java.math.BigInteger(a).add(new java.math.BigInteger(b)).toString();
+
+
+	}
+
+}	

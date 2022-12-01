@@ -1,0 +1,22 @@
+package Stringssss;
+
+public class LeetCode67 {
+
+	public static void main(String[] args) {
+		String a = "110";
+		String b = "1";
+System.out.println(addBinary(a, b));
+	}
+	static String addBinary(String a, String b) {
+
+		Long x=(long) Integer.parseInt(a, 2);
+
+		Long y=(long) Integer.parseInt(b, 2);
+	
+		Long sum=x+y;
+		Integer.toBinaryString(sum);
+		return 	;	
+
+	}
+
+}

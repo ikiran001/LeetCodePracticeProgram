@@ -195,3 +195,11 @@ N
 src/Stringssss/LeetCode58.java,e\9\e9727a6944e109a245b6b3bb10b35786474c130d
 O
 src/Stringssss/LeetCode680.java,8\0\804343e4923114fdedad6171d686ca6131d57fb8
+O
+src/Stringssss/LeetCode557.java,7\e\7ef1b58a6989404a0c04e8e56481f13d146add41
+K
+src/Practice/LeetCode9.java,6\3\6370bb45613fcd10e9231f8e18116877893fc1f5
+N
+src/Stringssss/LeetCode50.java,8\c\8c67617aeb2de4790fd443ccf82a57a5a870914b
+O
+src/Practice/ListArraylist.java,3\5\35684dacf1bee403b33979a1b6e7260c019066bf
