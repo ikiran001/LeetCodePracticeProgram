@@ -1,0 +1,13 @@
+package Practice;
+//https://leetcode.com/problems/reverse-integer/
+	//7. Reverse Integer
+public class LeetCode07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	  public int reverse(int x) {
+	        
+	    }
+}

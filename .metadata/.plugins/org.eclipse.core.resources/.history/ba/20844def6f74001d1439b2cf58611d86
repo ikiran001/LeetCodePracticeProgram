@@ -1,0 +1,13 @@
+package Stringssss;
+
+public class LeetCode227 {
+
+	public static void main(String[] args) {
+
+		String s = "3+2*2";
+	}
+	static int calculate(String s) {
+        return Integer.valueOf(s);
+    }
+
+}

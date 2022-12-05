@@ -7,11 +7,11 @@ package Stringssss;
 public class LeetCode1108Defanging {
 
 	public static void main(String[] args) {
-String address = "1.1.1.1";
-System.out.println(defangIPaddr(address));
+		String address = "1.1.1.1";
+		System.out.println(defangIPaddr(address));
 
 	}
-	 static String defangIPaddr(String address) {
-	        return address.replace(".", "[.]");
-	    }
+	static String defangIPaddr(String address) {
+		return address.replace(".", "[.]");
+	}
 }

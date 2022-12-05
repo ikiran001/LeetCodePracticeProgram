@@ -1,0 +1,12 @@
+package Recursion;
+// find the nth fibonacci number
+public class Fibonacci {
+
+	public static void main(String[] args) {
+
+fibo(10);
+	}
+	static int fibo(int n) {
+return fibo(n-1)-fibo(n-2);
+	}
+}

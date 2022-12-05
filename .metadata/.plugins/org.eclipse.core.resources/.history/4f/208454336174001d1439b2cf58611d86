@@ -1,0 +1,26 @@
+package Stringssss;
+
+public class LeetCode1662 {
+
+	public static void main(String[] args) {
+String[] a= {"ab"};
+String[] b= {"a","b"};
+System.out.println(arrayStringsAreEqual(a, b));
+
+	}
+	public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+		return abc(word1).equals(abc(word2));
+	}
+
+	static String abc(String []a) {
+		String b="";
+		for (int i = 0; i < a.length; i++) {
+			int n=a[i].toCharArray().length;
+			for (int j = 0; j < n; j++) {
+				b+=a[j];
+			}
+		}
+		return b;
+	}
+
+}

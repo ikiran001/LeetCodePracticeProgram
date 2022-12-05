@@ -1,0 +1,16 @@
+package Recursion;
+// find the nth fibonacci number
+public class Fibonacci {
+
+	public static void main(String[] args) {
+
+		System.out.println(fibo((long) 40));
+	}
+	static Long fibo(Long i) {
+		if(i<2) {
+			return i;
+		}
+		
+		return fibo(i-1)+fibo(i-2);
+	}
+}

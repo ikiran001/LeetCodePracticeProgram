@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class LeetCode41 {
 
 	public static void main(String[] args) {
-		int[] arr= {3,4,-1,1};
+		int[] arr= {7,8,9,11,12};
 		System.out.println(firstMissingPositive(arr));
-
 	}
+	
 
 	static int firstMissingPositive(int[] nums) {
 		sort(nums);
@@ -21,6 +21,8 @@ public class LeetCode41 {
 		return nums[nums.length-1]+1;
 	}
 
+	
+	
 	static void sort(int[] nums) {
 		int i=0;
 		while(i<nums.length) {
@@ -30,9 +32,9 @@ public class LeetCode41 {
 			}
 			else {i++;}
 		}
-
 	}
 
+	
 	static void swap(int[] nums, int first, int second) {
 		int temp=nums[first];
 		nums[first]=nums[second];

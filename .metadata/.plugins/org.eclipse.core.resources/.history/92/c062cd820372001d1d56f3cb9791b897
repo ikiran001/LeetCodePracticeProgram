@@ -1,0 +1,13 @@
+package Recursion;
+//print up 
+public class PracticeP1 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+	static void numbers(int n) {
+		
+	}
+}
