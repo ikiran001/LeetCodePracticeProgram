@@ -227,3 +227,15 @@ L
 src/Recursion/Fibonacci.java,d\d\dd4f5f006ca03285ac67156869aa2df21757ebff
 X
 (src/Recursion/BinarySearchRecursion.java,0\8\084c6f2af6559ae6dea9cb9d9763b515e42c2cef
+L
+src/Practice/LeetCode07.java,6\d\6d07134720c591c0f4af16e6242aca5bcff67ca9
+O
+src/Stringssss/LeetCode227.java,5\c\5c419cbc073b9cc1c3baba4be56060ece4871b30
+P
+ src/Stringssss/LeetCode1662.java,e\a\ea6b4276207ab5e5eceeb37431e6a0f0de2c1b08
+P
+ src/Stringssss/LeetCode1773.java,8\7\873bd5602757ad421051cd72ed95d2226dacc09a
+P
+ src/MathsForDSA/PrimeNumber.java,7\9\79508f0c8c6b6049fcdb038221768b09421c40d2
+\
+,src/MathsForDSA/LeetCode204SeivesMethod.java,4\9\49f6296499d48f0d89d532b5d7959e33eb7aec33

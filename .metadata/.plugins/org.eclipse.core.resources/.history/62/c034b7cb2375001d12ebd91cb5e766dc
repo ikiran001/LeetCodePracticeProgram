@@ -1,0 +1,12 @@
+package GeeksforGeeks;
+
+public class GGmisisngNumberInArray {
+
+	public static void main(String[] args) {
+		
+
+	}
+	 static int MissingNumber(int array[], int n) {
+        // Your Code Here
+    }
+}

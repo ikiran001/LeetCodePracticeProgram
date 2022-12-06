@@ -1,0 +1,16 @@
+package Stringssss;
+
+import java.util.List;
+
+//issue
+public class GGRemoveDuplicates {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	 public static void miniMaxSum(List<Integer> arr) {
+		  
+
+		    }
+}

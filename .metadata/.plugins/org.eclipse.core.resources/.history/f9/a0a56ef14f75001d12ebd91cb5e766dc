@@ -1,0 +1,36 @@
+package HackerRank;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class PlusMinus {
+
+	public static void main(String[] args) {
+	int [] arr= {-4, 3, -9, 0, 4, 1};
+	
+	plusMinus(arr);
+
+
+	}
+	public static void plusMinus(int[] arr) {
+		int n=arr.length;
+        int zero=0;
+        int pos=0;
+        int neg=0;
+  for (int i ;i<n:i++) {
+      if(arr[i]==0){
+    	  zero++;
+     }
+      if(arr[i]>0){
+          pos++;
+      }
+      if(arr[i]<0){
+          neg++;
+      }
+  }
+System.out.printf("%.6f",zero/n);
+System.out.printf("%.6f",pos/n);
+System.out.printf("%.6f",neg/n);
+    }
+
+}

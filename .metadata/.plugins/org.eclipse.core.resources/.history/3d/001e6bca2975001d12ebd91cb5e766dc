@@ -1,0 +1,10 @@
+package GeeksforGeeks;
+
+public class GGElementOccurNtimes {
+
+	public static void main(String[] args) {
+
+	}
+	
+
+}

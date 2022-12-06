@@ -1,5 +1,7 @@
 package Stringssss;
 
+import java.util.ArrayList;
+
 public class LeetCode1528 {
 
 	public static void main(String[] args) {
@@ -9,6 +11,8 @@ public class LeetCode1528 {
 
 	}
 	static String restoreString(String s, int[] indices) {
+		   ArrayList<String> list=new ArrayList<>();
+		   
 		int n=s.length();
 		char[] arr=new char[n];
 

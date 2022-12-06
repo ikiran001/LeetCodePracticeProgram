@@ -1,0 +1,14 @@
+package GeeksforGeeks;
+
+public class GGElementOccurNtimes {
+
+	public static void main(String[] args) {
+		
+		
+	}
+	 public static int minIndexChar(String str, String patt)
+	    {
+	        // Your code here
+	    }
+
+}

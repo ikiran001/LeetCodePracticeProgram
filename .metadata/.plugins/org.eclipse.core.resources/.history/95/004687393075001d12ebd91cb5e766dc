@@ -1,0 +1,15 @@
+package GeeksforGeeks;
+
+public class GGReverseArrayIngroups {
+
+	public static void main(String [] args) {
+		
+	}
+static	void reverseInGroups(ArrayList<Integer> arr, int n, int k) {
+        int a=arr[0];
+    } 
+	public static void swap() {
+
+	}
+	
+}

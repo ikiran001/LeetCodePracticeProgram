@@ -1,0 +1,17 @@
+package GeeksforGeeks;
+
+import java.util.ArrayList;
+
+public class GGReverseArrayIngroups {
+
+	public static void main(String [] args) {
+		
+	}
+static	void reverseInGroups(ArrayList<Integer> arr, int n, int k) {
+     
+    } 
+	public static void swap() {
+
+	}
+	
+}

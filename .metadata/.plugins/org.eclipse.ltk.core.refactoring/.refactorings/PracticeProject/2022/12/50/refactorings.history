@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;GeeksforGeeks.GGmisisngNumberInArray&apos; to &apos;GGminimumIndex&apos;&#x0D;&#x0A;- Original project: &apos;PracticeProject&apos;&#x0D;&#x0A;- Original element: &apos;GeeksforGeeks.GGmisisngNumberInArray&apos;&#x0D;&#x0A;- Renamed element: &apos;GeeksforGeeks.GGminimumIndex&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GGmisisngNumberInArray&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;GeeksforGeeks{GGmisisngNumberInArray.java[GGmisisngNumberInArray" matchStrategy="1" name="GGminimumIndex" qualified="false" references="true" similarDeclarations="false" stamp="1670307355444" textual="false" version="1.0"/>
+</session>

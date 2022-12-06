@@ -1,0 +1,34 @@
+package GeeksforGeeks;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class GGReverseArrayIngroups {
+
+	public static void main(String [] args) {
+		int N = 5; int K = 3;
+				int arr[] = {1,2,3,4,5};
+				reverseInGroups(arr, N, K);
+			
+	}
+	static	void reverseInGroups(ArrayList<Integer> arr, int n, int k) {
+		
+		int i=0;
+		while (i <=k) {
+			swap(arr, k, i);
+			k--;
+			i++;
+		}
+
+		while(k<=n) {
+			swap(arr, k, n);
+			k++;
+			n--;
+
+		}
+	} 
+	public static void swap(ArrayList<Integer> arr, int a, int b) {
+	Collections.swap(arr, a, b);
+	}
+
+}
