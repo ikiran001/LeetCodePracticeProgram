@@ -1,7 +1,5 @@
 package Stringssss;
 
-import java.util.ArrayList;
-
 public class LeetCode1528 {
 
 	public static void main(String[] args) {
@@ -11,23 +9,20 @@ public class LeetCode1528 {
 
 	}
 	static String restoreString(String s, int[] indices) {
-		   ArrayList<String> list=new ArrayList<>();
-		   
 		int n=s.length();
 		char[] arr=new char[n];
 
 		for (int i = 0; i < n; i++) {
 			arr[indices[i]]=s.charAt(i);
 		}
-		
-		
+
 		String a="";
 		for (int i = 0; i <n; i++) {
 			a+=arr[i];
 		}
 
 		return a;
-	}
+	}    
 }
 
 

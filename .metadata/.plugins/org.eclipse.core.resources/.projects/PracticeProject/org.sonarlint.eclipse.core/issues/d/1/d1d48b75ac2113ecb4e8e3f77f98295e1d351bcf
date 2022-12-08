@@ -1,8 +1,8 @@
 
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ë“…%8ß×õéË0H²YRMAJORZ
+CODE_SMELL
 T
-java:S1643"Use a StringBuilder instead.(¾×Øöøÿÿÿÿ8ÚÅÉëË0H°ARMINORZ
+java:S1643"Use a StringBuilder instead.(¾×Øöøÿÿÿÿ8ÚÅÉëË0H°YRMINORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(ë“…%8ß×õéË0Hú@RMAJORZ
-CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûHç?RMINORZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûH±YRMINORZ
 CODE_SMELL

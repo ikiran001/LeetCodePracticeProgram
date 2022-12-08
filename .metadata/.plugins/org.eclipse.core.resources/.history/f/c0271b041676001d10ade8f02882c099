@@ -1,0 +1,14 @@
+package Practice;
+
+public class AdditionOfDigits {
+
+	public static void main(String[] args) {
+
+int a=1234;
+System.out.println(sum(a));
+	}
+	
+	public static int sum(int n) {
+return ((n%10)+(n/10));
+	}
+}

@@ -1,0 +1,16 @@
+package Practice;
+
+public class RecursionConcept {
+
+	public static void main(String[] args) {
+		
+
+	}
+	public static int concept(int n) {
+		if(n==0) {
+			return n;public static int prod(int n) {
+		}
+		
+			
+	}
+}
