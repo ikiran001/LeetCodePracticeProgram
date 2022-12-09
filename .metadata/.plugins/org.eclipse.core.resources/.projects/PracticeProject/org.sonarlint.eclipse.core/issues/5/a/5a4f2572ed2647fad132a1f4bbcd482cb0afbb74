@@ -1,0 +1,13 @@
+
+b
+java:S3740)"/Provide the parametrized type for this generic.(ıı§Š8†¹Ü‰Ï0HŞZRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(âı¸üûÿÿÿÿ8¦‰Ï0HÙZRMAJORZ
+CODE_SMELL
+N
+java:S3626""Remove this redundant jump.(ûÁİ…8Íáº‰Ï0HÚZRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Ò‚Æ‰Ï0HØZRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş±ş¤HÛZRMINORZ
+CODE_SMELL

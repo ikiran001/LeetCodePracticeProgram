@@ -1,0 +1,17 @@
+package Recursion;
+
+import java.util.ArrayList;
+
+public class ArrayListRecursion {
+
+	public static void main(String[] args) {
+	
+
+	}
+static ArrayList<Integer> allIndices(int index, int target, int [] arr){
+	ArrayList<Integer > list=new ArrayList<>();
+	if(arr[index]==arr.length-1) {
+return list;
+	
+}
+}
