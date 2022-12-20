@@ -1,0 +1,9 @@
+
+v
+java:S2184 "ECast one of the operands of this subtraction operation to a "double".(Ÿºõ’úÿÿÿÿ8‚“õ´Ï0H¬`RMINORZBUG
+q
+java:S2184+"ECast one of the operands of this subtraction operation to a "double".(±ûáÒ8ˆµÏ0H­`RMINORZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş±ş¤H®`RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(™ä–ûÿÿÿÿ8Ù¿­³Ï0H¯`RMAJORZ
+CODE_SMELL

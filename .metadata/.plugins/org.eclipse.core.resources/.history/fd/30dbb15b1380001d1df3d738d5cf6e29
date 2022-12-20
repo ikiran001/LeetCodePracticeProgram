@@ -1,0 +1,19 @@
+package Maze;
+
+public class backtracking {
+
+	public static void main(String[] args) {
+	
+
+	}
+	
+	public static void mazePath(boolean[][] arr, String p, int r, int c, int[][] path, int step) {
+		if(r==arr.length-1  && c==arr[0].length-1) {
+			path[r][c]=step;
+			for(int[] nums :path) {
+				
+			}
+		}
+	}
+
+}
