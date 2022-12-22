@@ -15,8 +15,8 @@
     <fullyQualifiedTypeName name="org.jcp.xml.dsig.internal.dom.ApacheCanonicalizer"/>
     <fullyQualifiedTypeName name="java.lang.StackTraceElement"/>
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

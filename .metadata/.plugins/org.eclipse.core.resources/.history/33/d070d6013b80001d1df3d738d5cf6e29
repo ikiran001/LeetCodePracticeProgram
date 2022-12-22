@@ -1,0 +1,21 @@
+package Stringssss;
+
+public class LeetCode316 {
+
+	public static void main(String[] args) {
+String a="cccccccb";
+	}
+
+	public static String removeDuplicateLetters(String s) {
+		int n=s.length();
+		int i=0;
+		String ans="";
+		while(i<n) {
+			if(!s.contains(s.substring(i, n))) {
+			ans+=s.charAt(i);
+			}
+		}
+		return ans;
+	}
+
+}

@@ -1,0 +1,22 @@
+package LeetCodeArrays;
+
+public class leetCode771 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public int numJewelsInStones(String jewels, String stones) {
+		int i=0;
+		int count=0;
+		while(i<stones.length()) {
+			if(jewels.contains(String.valueOf(stones.charAt(i)))) {
+				count++;
+				i++;
+			}
+			else {i++;}
+		}
+		return count;
+	}
+
+}

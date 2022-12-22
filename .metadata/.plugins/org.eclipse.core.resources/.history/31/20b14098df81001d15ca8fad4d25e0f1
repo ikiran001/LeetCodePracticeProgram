@@ -1,0 +1,17 @@
+package LeetCodeArrays;
+
+public class LeetCode415 {
+
+	public static void main(String[] args) {
+
+	} 
+
+
+	public String addStrings(String num1, String num2) {
+		int a=Integer.valueOf(num1);
+		int b=Integer.valueOf(num2);
+int ans=a+b;
+return String.valueOf(ans);
+	}
+
+}

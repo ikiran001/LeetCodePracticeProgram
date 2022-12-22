@@ -1,0 +1,16 @@
+package Practice;
+
+import java.util.Arrays;
+
+public class EmptyArray {
+
+	public static void main(String[] args) {
+		int [] arr=new int [4];
+		arr[1]= ;
+		System.out.println(Arrays.toString(arr));
+
+	}
+	
+	
+
+}

@@ -1,0 +1,35 @@
+package LeetCodeArrays;
+
+public class LeetCode121 {
+
+	public static void main(String[] args) {
+int a= {7,1,5,3,6,4};
+
+	}
+
+	public static int maxProfit(int[] prices) {
+		int high=maxIndex(prices);
+		int low=minIndex(prices);
+		return prices[high]-prices[low];
+	}
+
+	public static int minIndex(int[] nums) {
+		int min=0;
+		for (int i = 0; i < nums.length; i++) {
+			if(nums[i]<nums[min]) {
+				min=i;
+			}
+		}
+		return min;
+	}
+
+	public static int maxIndex(int[] nums) {
+		int max=1;
+		for (int i = minIndex(nums); i < nums.length; i++) {
+			if(nums[i]>nums[max]) {
+				max=i;
+			}	
+		}
+		return max;
+	}
+}

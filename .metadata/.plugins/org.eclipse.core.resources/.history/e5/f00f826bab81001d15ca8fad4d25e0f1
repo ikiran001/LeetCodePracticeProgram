@@ -1,0 +1,20 @@
+package LeetCodeArrays;
+
+public class LeetCode27 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	 public int removeElement(int[] nums, int val) {
+	     int i=0;
+	     int count=0;
+	     while(i<nums.length) {
+	    	 if(nums[i]==val)_{
+	    	i++;
+	    	count++;}
+	     }
+	    }
+
+}
