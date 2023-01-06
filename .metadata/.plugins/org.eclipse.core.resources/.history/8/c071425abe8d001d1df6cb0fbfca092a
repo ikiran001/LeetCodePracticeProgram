@@ -29,7 +29,6 @@ class Collection {
 		pq.offer(200);
 		pq.offer(500);
 		pq.offer(1);
-		
 		System.out.println(pq);
 		System.out.println("poll=>"+pq.poll());
 	
