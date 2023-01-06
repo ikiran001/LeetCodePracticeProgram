@@ -1,0 +1,17 @@
+package Practice;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+class Collection {
+
+	public static void main(String[] args) {
+		//ArrayList is a class which implements List interface
+		List<Integer> list =new ArrayList<>();
+		List<Integer> list2 =new LinkedList<>();
+		LinkedList<Integer> list3=new LinkedList<>();
+		List<Integer> list5 =new Stack<>();
+	}
+
+}

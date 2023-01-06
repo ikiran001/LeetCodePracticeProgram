@@ -277,3 +277,7 @@ J
 src/Maze/backtracking.java,5\3\53d79c31da9f7201a402d4f9622d4b2c1dc4dbd8
 O
 src/Stringssss/LeetCode316.java,0\2\022c3f1d5d19184601a9db856d81e630b12a12e9
+O
+src/Stringssss/LeetCode389.java,7\e\7e16a11a412c82bf8a647601456cffeaa10ad86f
+L
+src/Sudoku/SudoluSolver.java,3\3\3367efe99d4041ec0f5ee6a1efda11e9c375a597

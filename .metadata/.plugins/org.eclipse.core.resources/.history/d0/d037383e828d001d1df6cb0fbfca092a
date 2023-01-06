@@ -1,0 +1,16 @@
+package Stringssss;
+
+public class LeetCode28 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	   public int strStr(String haystack, String needle) {
+			if(haystack.contains(needle)) {
+				return haystack.indexOf(needle.charAt(0));
+			}
+			else return -1;
+	    }
+
+}

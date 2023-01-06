@@ -1,0 +1,44 @@
+package CollectionAndCollections;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
+
+public class Collectnnn {
+	public static void main(String[] args) {
+		int [] arr= {1,2,3,4,5,6,7,8,9,10};
+		List<Integer> list=new ArrayList<>();
+		List<Integer> list2=new ArrayList<>();
+		list.add(12);
+		list.add(13);
+		list.add(1);
+		list.add(144);
+		list.add(-11);
+		list.add(-11);
+		list.add(-11);
+		list2.add(12);
+		list2.add(13);
+		list2.add(1);
+		list2.add(144);
+		list2.add(-11);
+		list2.add(-11);
+		list2.add(-11);
+		System.out.println(Collections.max(list));
+		System.out.println(Collections.min(list));
+		System.out.println(Collections.frequency(list, Collections.min(list)));
+		System.out.println(list);
+		Collections.sort(list);
+		System.out.println(list);	
+		Collections.sort(list,Comparator.reverseOrder());
+		System.out.println(list);
+	System.out.println(	Collections.binarySearch(list, 144));
+	System.out.println(list2);
+	for (int i = 0; i < list.size(); i++) {
+		Collections.addAll(list2, list.get(i));
+	}
+	
+	System.out.println(list2);
+	}
+}

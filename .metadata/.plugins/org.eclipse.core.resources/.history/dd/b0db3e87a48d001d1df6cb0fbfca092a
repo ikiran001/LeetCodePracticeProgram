@@ -1,0 +1,9 @@
+package CollectionAndCollections;
+
+import java.util.*;
+
+public class Collections {
+public static void main(String[] args) {
+	List<E>
+}
+}
