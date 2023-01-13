@@ -281,3 +281,15 @@ O
 src/Stringssss/LeetCode389.java,7\e\7e16a11a412c82bf8a647601456cffeaa10ad86f
 L
 src/Sudoku/SudoluSolver.java,3\3\3367efe99d4041ec0f5ee6a1efda11e9c375a597
+S
+#src/LeetCodeArrays/leetCode771.java,c\1\c1a1a832c6111a825d3b837683531b36d3772a0b
+N
+src/Stringssss/LeetCode28.java,2\3\23de48a4a0d0ad243b72905daab73a4cf66be96c
+G
+src/Practice/kiran.java,2\e\2e51f179ccc4c1d3293aa9629c45f69aeae98c78
+\
+,src/CollectionAndCollections/Collectnnn.java,8\0\8013ccde40120f7cfcbe2be352abef1fb5dcc546
+\
+,src/CollectionAndCollections/Collection.java,e\6\e6222168d5387c46b274fe51639146ea51050f6a
+J
+src/Practice/Practice.java,e\3\e39408ee066604f1b5e4d2f192314549deb8374d

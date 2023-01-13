@@ -1,0 +1,13 @@
+package LeetCodeArrays;
+
+public class LeetCode1732 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+	 public int largestAltitude(int[] gain) {
+	        int [] arr=new int[gain.length+1];
+	    }
+}

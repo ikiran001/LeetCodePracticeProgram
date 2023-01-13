@@ -1,0 +1,46 @@
+
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(šÿ”˜ûÿÿÿÿHlRMAJORZ
+CODE_SMELL
+U
+java:S1481
+"*Remove this unused "list2" local variable.(¿»çHlRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿH‘lRMAJORZ
+CODE_SMELL
+j
+java:S1854"9Remove this useless assignment to local variable "list3".(¸¯Ô¯øÿÿÿÿH’lRMAJORZ
+CODE_SMELL
+S
+java:S1481"'Remove this unused "q3" local variable.(ğ½·ĞH“lRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿH•lRMAJORZ
+CODE_SMELL
+d
+java:S1854
+"9Remove this useless assignment to local variable "list2".(¿»çH–lRMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(ªü–¤şÿÿÿÿH—lRMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(«ÍÙÃúÿÿÿÿH˜lRMAJORZ
+CODE_SMELL
+[
+java:S1481"*Remove this unused "list3" local variable.(¸¯Ô¯øÿÿÿÿH™lRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(êêâMH›lRMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(šÿ”˜ûÿÿÿÿHœlRMAJORZ
+CODE_SMELL
+i
+java:S1854	"8Remove this useless assignment to local variable "list".(¤Êí…ıÿÿÿÿHlRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©€Ç©HlRMINORZ
+CODE_SMELL
+b
+java:S1854"6Remove this useless assignment to local variable "q3".(ğ½·ĞHŸlRMAJORZ
+CODE_SMELL
+Z
+java:S1481	")Remove this unused "list" local variable.(¤Êí…ıÿÿÿÿH lRMINORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(ğ½·ĞH¢lRMAJORZ
+CODE_SMELL
