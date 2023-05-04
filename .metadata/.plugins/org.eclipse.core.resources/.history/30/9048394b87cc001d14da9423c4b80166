@@ -1,0 +1,21 @@
+package Stringssss;
+
+public class LeetCode1967 {
+
+	public static void main(String[] args) {
+		String[] arr= {"a","abc","bc","d"};
+		String word="abc";
+		// TODO Auto-generated method stub
+
+	}
+	public int numOfStrings(String[] patterns, String word) {
+		int c=0;
+		for (int i = 0; i < patterns.length; i++) {
+			if(word.contains(patterns[i])) {
+				
+			}
+		}
+
+	}
+
+}

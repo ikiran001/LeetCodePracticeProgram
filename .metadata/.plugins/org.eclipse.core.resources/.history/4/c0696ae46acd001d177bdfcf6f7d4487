@@ -1,0 +1,23 @@
+package LeetCodeArrays;
+
+public class LeetCode1909 {
+
+	public static void main(String[] args) {
+		int[] arr= {1,2,10,5,7};
+		System.out.println(oneEle(arr));
+	}
+
+	
+	public static boolean oneEle(int[] nums) {
+		int c=0;
+		for (int i = 0; i < nums.length; i++) {
+			if(i+1<nums.length && nums[i]<=nums[i+1]) {
+				c++;
+			}
+			if(c==2) {
+				return false;
+			}
+		} 
+		return true;
+	}
+}

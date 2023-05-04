@@ -1,0 +1,14 @@
+package LeetCodeArrays;
+
+public class LeetCode2217 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+public long[] kthPalindrome(int[] queries, int intLength) {
+        
+    }
+
+}

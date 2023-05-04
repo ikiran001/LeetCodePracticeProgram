@@ -1,0 +1,11 @@
+
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(º•µ¾ùÿÿÿÿ8¥ù¯õÜ0H¶vRCRITICALZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûHÅvRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÉÅ°8àëÃöÜ0HÆvRMAJORZ
+CODE_SMELL
+g
+java:S1066"/Merge this if statement with the enclosing one.(ı¶’Ûúÿÿÿÿ8¥ù¯õÜ0HÇvRMAJORZ
+CODE_SMELL

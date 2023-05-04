@@ -1,0 +1,31 @@
+package LeetCodeArrays;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LeetCode2553 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	  public int[] separateDigits(int[] nums) {
+		  int len=nums.length-1;
+		  List<Integer> list=new ArrayList<>();
+		  for (int i = len	; i >=0; i--) {
+			  int n=nums[i];
+			  while(n>=0) {
+				  int mod=n%10;
+				  list.add(mod);
+				  n=n/10;
+			  }
+		}
+		  int [] arr=new int[list.size()];
+		  for (int i = list.size()-1; i >= 0; i--) {
+			arr[i]=
+		}
+	        
+	    }
+
+}

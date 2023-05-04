@@ -7,6 +7,7 @@ Return the answer in an array*/
 
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class LeetCode1365 {
 
@@ -17,6 +18,8 @@ public class LeetCode1365 {
 	}
 
 	static int[] smallerNumbersThanCurrent(int[] nums) {
+		HashMap<String, String>asd=new HashMap<>();
+	
 		int[] result=new int[nums.length]; 
 		for (int i = 0; i < nums.length; i++) {
 			int count=0;

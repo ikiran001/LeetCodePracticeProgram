@@ -1,0 +1,15 @@
+package LeetCodeArrays;
+
+public class LeetCode2553 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	  public int[] separateDigits(int[] nums) {
+		  int len=nums.length;
+	        
+	    }
+
+}

@@ -1,0 +1,19 @@
+package Stringssss;
+
+import java.util.Iterator;
+
+public class LeetCode1221 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public int balancedStringSplit(String s) {
+		int R=0;
+		int L=0;
+		for (char ch: s.toCharArray()){
+			
+		}
+
+	}
+}

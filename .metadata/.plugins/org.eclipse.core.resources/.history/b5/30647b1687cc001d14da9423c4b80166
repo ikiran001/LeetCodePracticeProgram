@@ -1,0 +1,13 @@
+package Stringssss;
+
+public class LeetCode1967 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	  public int numOfStrings(String[] patterns, String word) {
+	        
+	    }
+
+}

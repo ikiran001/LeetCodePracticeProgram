@@ -1,0 +1,17 @@
+package Stringssss;
+
+public class LeetCode2325 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+	public String decodeMessage(String key, String message) {
+		for(int a=0 ;a<26 ;a++) {
+			char ch+=(S)(a+'a');
+			
+		}
+
+	}
+}

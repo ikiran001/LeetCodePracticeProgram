@@ -4,7 +4,6 @@ public class LeetCode1732 {
 
 	public static void main(String[] args) {
 	
-
 	}
 
 	 public static int largestAltitude(int[] gain) {

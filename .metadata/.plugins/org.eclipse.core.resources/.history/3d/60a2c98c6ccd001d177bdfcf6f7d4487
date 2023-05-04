@@ -1,0 +1,35 @@
+package LeetCodeArrays;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class LeetCode1909 {
+
+	public static void main(String[] args) {
+		int[] arr= {100,21,100};
+		System.out.println(oneEle(arr));
+	}
+
+	
+	public static boolean oneEle(int[] nums) {
+		if(nums.length<3) {
+			return true;
+		}
+		int c=0;
+		Map<Integer, Integer>map=new HashMap<>();
+		for (int i = 0; i < nums.length; i++) {
+			map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+			if(nums.length==3&& map.get(nums[i])>1) {
+				return true;
+			}
+			if(i+1<nums.length && nums[i]>=nums[i+1] ) {
+				c++;
+			}
+			if(c==2) {
+				return false;
+			}
+			
+		} 
+		return true;
+	}
+}

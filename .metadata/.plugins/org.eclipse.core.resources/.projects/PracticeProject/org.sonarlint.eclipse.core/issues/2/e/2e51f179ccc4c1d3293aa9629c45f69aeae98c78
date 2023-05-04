@@ -1,9 +1,9 @@
 
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáH•iRMINORZ
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¸´8¸ı®¯Ø0HÀoRCRITICALZ
 CODE_SMELL
-	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ®‘É8¸ı®¯Ø0H–iRCRITICALZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHÁoRMINORZ
 CODE_SMELL
-	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¸´8¸ı®¯Ø0H—iRCRITICALZ
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ®‘É8¸ı®¯Ø0HÂoRCRITICALZ
 CODE_SMELL
-	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¸´8¸ı®¯Ø0H˜iRCRITICALZ
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¸´8¸ı®¯Ø0HÃoRCRITICALZ
 CODE_SMELL

@@ -1,0 +1,14 @@
+package Stringssss;
+
+public class LeetCode2586 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public int vowelStrings(String[] words, int left, int right) {
+
+		
+	}
+}

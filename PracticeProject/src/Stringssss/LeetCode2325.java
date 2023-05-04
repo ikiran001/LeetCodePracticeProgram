@@ -1,0 +1,44 @@
+package Stringssss;
+
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class LeetCode2325 {
+
+	public static void main(String[] args) {
+		String key="the quick brown fox jumps over the lazy dog";
+		String message="vkbs bs t suepuv";
+		System.out.println(decodeMessage(key, message));
+
+	}
+
+	public  static String decodeMessage(String key, String message) {
+		String newkey=key.replaceAll(" ", "");
+		String b="";
+		for(char arr:newkey.toCharArray()) {
+			if(!b.contains(String.valueOf(arr))) {
+				b+=arr;
+			}
+		}
+		String alphabets="";
+		String ans="";
+		for(int a=0 ;a<26 ;a++) {
+			char ch=(char)(a+'a');
+			alphabets+=ch;
+		}
+		Map<Character, Character> map=new HashMap<>();
+		for (int i = 0; i < 26; i++) {
+			map.put(b.charAt(i), alphabets.charAt(i));
+		}
+		for(char cha:message.toCharArray()) {
+			if(!map.containsKey(cha)) {
+				ans+=" ";
+			}
+			else {
+				ans+=map.get(cha);
+			}
+		}
+		return ans;
+	}
+}

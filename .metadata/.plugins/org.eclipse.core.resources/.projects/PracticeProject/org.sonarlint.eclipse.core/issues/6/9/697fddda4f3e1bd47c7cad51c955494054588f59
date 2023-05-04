@@ -1,0 +1,20 @@
+
+T
+java:S1643$"Use a StringBuilder instead.(¥İ÷ñÿÿÿÿÿ8°ôª¹ò0HÇ~RMINORZ
+CODE_SMELL
+O
+java:S1643'"Use a StringBuilder instead.(åÕ¿”8æµ©¹ò0HÄ~RMINORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(›òºùÿÿÿÿ8Ê¬ë¹ò0Hå~RMINORZ
+CODE_SMELL
+ƒ
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ùôªöùÿÿÿÿ8ÿıÃ¹ò0HÖ~RCRITICALZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı•ÏûH¹}RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(³çóÆ8«Ğ­¹ò0HÒ~RMAJORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(‰¤šùûÿÿÿÿ8€œ¹ò0Hš~RMINORZ
+CODE_SMELL

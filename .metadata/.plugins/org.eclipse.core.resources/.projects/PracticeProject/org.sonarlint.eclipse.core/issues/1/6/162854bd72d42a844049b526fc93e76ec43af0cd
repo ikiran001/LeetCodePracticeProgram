@@ -1,0 +1,11 @@
+
+[
+java:S1172"(Remove this unused method parameter "k".(ïóŞ³8ÈÜı—ò0H‹|RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHğ{RINFOZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Äéº‘ûÿÿÿÿ8˜˜ò0H«|RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHï{RMINORZ
+CODE_SMELL

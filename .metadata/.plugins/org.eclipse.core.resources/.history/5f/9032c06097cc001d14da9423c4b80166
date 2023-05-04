@@ -1,0 +1,24 @@
+package LeetCodeArrays;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LeetCode2553 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	  public int[] separateDigits(int[] nums) {
+		  int len=nums.length-1;
+		  List<Integer> list=new ArrayList<>();
+		  for (int i = len	; i >=0; i--) {
+			  
+			
+		}
+		  
+	        
+	    }
+
+}

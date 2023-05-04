@@ -1,0 +1,26 @@
+package Stringssss;
+
+public class LeetCode2586 {
+
+	public static void main(String[] args) {
+		String[] ar= {"are","amyx","u"};
+		int a=0;
+		int b=2;
+		System.out.println(vowelStrings(ar, a, b));
+				
+
+	}
+
+	public static int vowelStrings(String[] words, int left, int right) {
+		int c=0;
+		for (int i = left; i <= right; i++) {
+			if(words[i].matches("(a|e|i|o|u).*") && 
+					(words[i].endsWith("a"))||words[i].endsWith("e")||words[i].endsWith("i")) ||
+words[i].endsWith("o"))|words[i].endsWith("u"))) {
+				c++;
+			}
+
+		}
+		return c;
+	}
+}

@@ -1,0 +1,13 @@
+package Stringssss;
+
+public class LeetCode1684 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public int countConsistentStrings(String allowed, String[] words) {
+
+	}
+
+}

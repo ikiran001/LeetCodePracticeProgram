@@ -1,0 +1,20 @@
+package Stringssss;
+
+public class LeetCode2586 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public int vowelStrings(String[] words, int left, int right) {
+		int c=0;
+		for (int i = left; i <= right; i++) {
+			if(words[i].startsWith("[a,e,i,o,u]") && words[i].endsWith("[a,e,i,o,u]")) {
+				c++;
+			}
+
+		}
+return c;
+	}
+}

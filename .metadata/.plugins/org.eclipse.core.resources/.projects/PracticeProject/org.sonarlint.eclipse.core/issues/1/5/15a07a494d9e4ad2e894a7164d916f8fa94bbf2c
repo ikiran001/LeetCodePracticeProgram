@@ -1,0 +1,13 @@
+
+·
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8·ñ‹½ò0Hõ~RCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHê~RMINORZ
+CODE_SMELL
+p
+java:S1172
+"=Remove these unused method parameters "queries", "intLength".(ßÙş¼8ÓÀ·¾ò0Hø~RMAJORZ
+CODE_SMELL
+Y
+java:S1168"&Return an empty array instead of null.(¥¹ï8ÓÀ·¾ò0Hü~RMAJORZ
+CODE_SMELL

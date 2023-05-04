@@ -1,5 +1,11 @@
 
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿHRMINORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Óãáˆÿÿÿÿÿ8Şà´Å0H¶xRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(Óãáˆÿÿÿÿÿ8Şà´Å0HRMAJORZ
+j
+java:S1854"7Remove this useless assignment to local variable "asd".(”ñ¿Ê8öñœïÜ0H·xRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñó»¡øÿÿÿÿH¸xRMINORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "asd" local variable.(”ñ¿Ê8öñœïÜ0H¹xRMINORZ
 CODE_SMELL

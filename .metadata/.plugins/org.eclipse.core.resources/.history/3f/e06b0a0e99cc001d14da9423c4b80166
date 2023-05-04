@@ -1,0 +1,14 @@
+package LeetCodeArrays;
+
+public class LeetCode2176 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr= {3,1,2,2,2,1,3};
+
+	}
+	  public int countPairs(int[] nums, int k) {
+	        
+	    }
+
+}

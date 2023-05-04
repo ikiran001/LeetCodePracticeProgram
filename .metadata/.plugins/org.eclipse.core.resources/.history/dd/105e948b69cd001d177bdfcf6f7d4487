@@ -1,0 +1,20 @@
+package LeetCodeArrays;
+
+public class LeetCode1909 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static boolean oneEle(int[] arr) {
+		int c=0;
+		for (int i = 0; i < arr.length; i++) {
+			if(arr[i]<=arr[i+1]) {
+				c++;
+			}
+		} 
+		
+	}
+
+}

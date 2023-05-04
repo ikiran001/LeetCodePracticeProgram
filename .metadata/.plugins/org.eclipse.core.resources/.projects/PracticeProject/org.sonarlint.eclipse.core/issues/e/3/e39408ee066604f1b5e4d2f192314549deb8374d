@@ -1,10 +1,9 @@
 
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHÏlRMINORZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåáHÖoRMINORZ
 CODE_SMELL
-p	java:S106
-"9Replace this use of System.out or System.err by a logger.(õàîÿÿÿÿÿ8Õ»˜ûÙ0HnRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤¬ÅÎ8Õ»˜ûÙ0H×oRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ü Ë±ÿÿÿÿÿ8üµšûÙ0H—nRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(õàîÿÿÿÿÿ8üµšûÙ0HØoRMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(¤¬ÅÎ8››ûÙ0H™nRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ü Ë±ÿÿÿÿÿ8››ûÙ0HÙoRMAJORZ
 CODE_SMELL

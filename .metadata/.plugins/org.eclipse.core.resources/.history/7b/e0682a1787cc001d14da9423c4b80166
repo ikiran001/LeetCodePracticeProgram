@@ -1,0 +1,14 @@
+package Stringssss;
+
+public class LeetCode1967 {
+
+	public static void main(String[] args) {
+		String[] arr= {"a","abc","bc","d"}''
+		// TODO Auto-generated method stub
+
+	}
+	public int numOfStrings(String[] patterns, String word) {
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package Stringssss;
+
+public class LeetCode2586 {
+
+	public static void main(String[] args) {
+		String[] ar= {"hey","aeo","mu","ooo","artro"};
+		int a=1;
+		int b=4;
+		System.out.println(vowelStrings(ar, a, b));
+				
+
+	}
+
+	public static int vowelStrings(String[] words, int left, int right) {
+		int c=0;
+		for (int i = left; i <= right; i++) {
+			if(words[i].matches("(a|e|i|o|u)") && words[i].matches("(a|e|i|o|u)")) {
+				c++;
+			}
+
+		}
+		return c;
+	}
+}

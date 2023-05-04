@@ -10,8 +10,9 @@ public class LeetCode_BS_704 {
 
 	public static void main(String[] args) {
 
-int[] arr= {-1,0,3,5,9,12};
+int [] arr= {-1,0,3,5,9,12};
 System.out.println(search(arr, 9));
+
 	}
 	static int search(int[] nums, int target) {
 		int start=0;
